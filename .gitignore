@@ -1,0 +1,11 @@
+fotos/
+cloudflared-linux-arm64.deb
+log_bot.txt
+inventario_total.csv
+log_tunnel.txt
+sync.py
+venv/
+__pycache__/
+__pycache__/
+*.deb
+log_*.txt
